@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+*.db
+
+# --- Jupyter/Colab ---
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb.tmp
+
+# --- Environment files ---
+.env
+*.env
+.envrc
+venv/
+.venv/
+ENV/
+env/
+*.bak
+.DS_Store
+
+# --- Data ---
+data/
+*.csv
+*.txt
+*.pdf
+*.docx
+*.json
+
+# --- Credentials & keys ---
+*key*
+*credentials*
+*secret*
+*token*
+
+# --- IDE / OS junk ---
+.idea/
+.vscode/
+Thumbs.db
